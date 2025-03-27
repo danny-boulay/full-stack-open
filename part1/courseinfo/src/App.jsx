@@ -34,7 +34,6 @@ const Total=({parts}) => {
   )
 }
 
-
 const App = () => {
   const course = {
     name: 'Half Stack application development',
